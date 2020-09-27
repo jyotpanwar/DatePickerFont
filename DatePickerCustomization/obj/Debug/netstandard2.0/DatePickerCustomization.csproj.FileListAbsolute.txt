@@ -1,0 +1,14 @@
+/Users/jyotsna/Projects/DatePickerCustomization/DatePickerCustomization/bin/Debug/netstandard2.0/DatePickerCustomization.deps.json
+/Users/jyotsna/Projects/DatePickerCustomization/DatePickerCustomization/bin/Debug/netstandard2.0/DatePickerCustomization.dll
+/Users/jyotsna/Projects/DatePickerCustomization/DatePickerCustomization/bin/Debug/netstandard2.0/ref/DatePickerCustomization.dll
+/Users/jyotsna/Projects/DatePickerCustomization/DatePickerCustomization/bin/Debug/netstandard2.0/DatePickerCustomization.pdb
+/Users/jyotsna/Projects/DatePickerCustomization/DatePickerCustomization/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jyotsna/Projects/DatePickerCustomization/DatePickerCustomization/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jyotsna/Projects/DatePickerCustomization/DatePickerCustomization/obj/Debug/netstandard2.0/DatePickerCustomization.AssemblyInfoInputs.cache
+/Users/jyotsna/Projects/DatePickerCustomization/DatePickerCustomization/obj/Debug/netstandard2.0/DatePickerCustomization.AssemblyInfo.cs
+/Users/jyotsna/Projects/DatePickerCustomization/DatePickerCustomization/obj/Debug/netstandard2.0/DatePickerCustomization.csproj.CoreCompileInputs.cache
+/Users/jyotsna/Projects/DatePickerCustomization/DatePickerCustomization/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jyotsna/Projects/DatePickerCustomization/DatePickerCustomization/obj/Debug/netstandard2.0/DatePickerCustomization.dll
+/Users/jyotsna/Projects/DatePickerCustomization/DatePickerCustomization/obj/Debug/netstandard2.0/ref/DatePickerCustomization.dll
+/Users/jyotsna/Projects/DatePickerCustomization/DatePickerCustomization/obj/Debug/netstandard2.0/DatePickerCustomization.pdb
+/Users/jyotsna/Projects/DatePickerCustomization/DatePickerCustomization/obj/Debug/netstandard2.0/DatePickerCustomization.csprojAssemblyReference.cache

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3DF4D13C-1A97-4B97-86DA-E3E31A9D7015}|Default">
+  <MonoDevelop.Ide.ItemProperties.DatePickerCustomization.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatePickerCustomization.Android/CustomDatePickerRenderer.cs">
+    <Files>
+      <File FileName="DatePickerCustomization.Android/Resources/values/styles.xml" Line="22" Column="13" />
+      <File FileName="../../Desktop/ARO-Digital-Amb/AbsaMobileBanking/AbsaMobileBanking.Droid/Resources/values/styles.xml" />
+      <File FileName="../../Desktop/ARO-Digital-Amb/AbsaMobileBanking/Library/Xamarin/Forms/View/Controls.Android/CustomRenderers/FormInputEntryRenderer.cs" />
+      <File FileName="DatePickerCustomization/MainPage.xaml" />
+      <File FileName="DatePickerCustomization.Android/CustomDatePickerRenderer.cs" Line="39" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DatePickerCustomization" expanded="True">
+            <Node name="DatePickerCustomization.Android" expanded="True">
+              <Node name="CustomDatePickerRenderer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DatePickerCustomization.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
